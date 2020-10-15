@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <i>let's get in touch!</i>
   
 <p align="center"> 
-<a href="https://t.me/abserari"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
+<a href="https://t.me/oiar"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
 </p>
 
 <p  align="center">
